@@ -1,0 +1,15 @@
+.container
+{
+background-color: white;
+width: 50em;
+height: 2em;
+margin-left: 12em;
+font-weight: 200;
+font-style: normal;
+
+}
+.container p{
+    color: black;
+    margin-left: 1em;
+    margin-top: 0.3em;
+}
